@@ -25,36 +25,36 @@ Fitur *workload* ini dapat menggambarkan kapasitas kerja setiap orang dan memebr
 ### 1. Daftar Asana
 Pada penggunaan *tool* ini dapat langsung mengunjungi website Asana di https://app.asana.com/ dan apabila baru pertama kali menggunakan Asana serta belum memiliki akun, anda dapat membuat akun terlebih dahulu. Disini terdapat dua cara pendaftaran akun yaitu dengan "*Lanjutkan dengan Google*" atau dengan "*Memasukkan Alamat Email pada Textbox yang tersedia*". Lalu, klik *button* lanjutkan.
 
-![alt text](https://github.com/ilhmainr/Asana-ProjectManagement/blob/main/image%20asana/asana%201.png)
+![alt text](https://github.com/LordUndying/Asana_Managemen-Proyek/blob/7c81876eba49510434f818450244e326e31b0ed8/asana/asana1.png)
 
 ### 2. Dashboard Asana
 Proses tahap pendaftaran sudah selesai, anda akan langsung masuk ke halaman dashboard Asana tepatnya pada ruang kerja proyek pertama yang telah dibuat.
 
-![alt text](https://github.com/ilhmainr/Asana-ProjectManagement/blob/main/image%20asana/asana%20home.png)
+![alt text](https://github.com/LordUndying/Asana_Managemen-Proyek/blob/7c81876eba49510434f818450244e326e31b0ed8/asana/asana2.png)
 
 ### 3. Membuat proyek baru
 *   Untuk membuat proyek baru klik opsi "buat" pada *navbar*, kemudian klik opsi "project" dan "new project".
-![alt text](https://github.com/ilhmainr/Asana-ProjectManagement/blob/main/image%20asana/asana%20new%20project.png)
+![alt text](https://github.com/LordUndying/Asana_Managemen-Proyek/blob/7c81876eba49510434f818450244e326e31b0ed8/asana/asana3.png)
 
 *   Kemudian anda bisa memilih opsi "blank project" untuk memulai proyek kosongan.
 
-![alt text](https://github.com/ilhmainr/Asana-ProjectManagement/blob/main/image%20asana/asana%20new%20project%202.png)
+![alt text](https://github.com/LordUndying/Asana_Managemen-Proyek/blob/7c81876eba49510434f818450244e326e31b0ed8/asana/asana4.png)
 
 *   Lalu, beri nama proyek dan pilih tampilan dari proyekmu bisa berupa daftar, papan, linimasa, dan kalender. Dan disini anda bisa mengatur ruang kerja proyekmu ini bersifat privat atau publik di dropdown yang tersedia.
 
-![alt text](https://github.com/ilhmainr/Asana-ProjectManagement/blob/main/image%20asana/asana%20new%20project%203.png)
+![alt text](https://github.com/LordUndying/Asana_Managemen-Proyek/blob/7c81876eba49510434f818450244e326e31b0ed8/asana/asana5.png)
 
 *   Lanjut, anda juga bisa langsung mulai menambahkan tugas, membagikan dengan rekan, dan menetapkan alur kerja untuk proyek yang anda telah buat.
 
 *   Setelah beberapa tahapan selesai, anda akan dibawa langsung ke tampilan ruang kerja proyek.
 
-![alt text](https://github.com/ilhmainr/Asana-ProjectManagement/blob/main/image%20asana/Asana%20project%201.png)
+![alt text](https://github.com/LordUndying/Asana_Managemen-Proyek/blob/7c81876eba49510434f818450244e326e31b0ed8/asana/asana6.png)
 
 *   Di ruang kerja proyek ini anda bisa mengubah nama proyek, tanggal batasan mau dikerjakan sampai kapan proyeknya, dan bisa mengundang rekan kerja untuk berpartisipasi dalam proyek yang mau diselesaikan.
 
 *   Apabila proyek yang dikerjakan sudah selesai, anda dapat memberikan centang sebagai pertanda bahwa tugas tersebut telah diselesaikan.
 
-![alt text](https://github.com/ilhmainr/Asana-ProjectManagement/blob/main/image%20asana/Screenshot%202023-05-31%20215052.png)
+![alt text](https://github.com/LordUndying/Asana_Managemen-Proyek/blob/7c81876eba49510434f818450244e326e31b0ed8/asana/asana7.png)
 
 ## Pilihan Paket Asana
 ### 1. Paket *basic*
